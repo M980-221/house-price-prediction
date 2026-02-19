@@ -42,7 +42,7 @@ You will see evaluation metrics (MAE, RMSE, R²) and a sample prediction.
 
 ---
 
-## 📊 Dataset
+## Dataset
 
 The dataset is in `data/housing.csv` with columns:
 
@@ -56,7 +56,7 @@ The dataset is in `data/housing.csv` with columns:
 
 ---
 
-## 🚀 Next Improvements (Optional)
+## Next Improvements (Optional)
 
 - Add more features (location, bathrooms, parking, etc.)
 - Try stronger models (RandomForest, XGBoost)
@@ -65,6 +65,6 @@ The dataset is in `data/housing.csv` with columns:
 
 ---
 
-## 📌 Author
+##  Author
 
 Mohammed — Data Science & Business student
